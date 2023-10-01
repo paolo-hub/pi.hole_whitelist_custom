@@ -13,7 +13,7 @@ To configure the domain list, please follow these steps:
 Download the script:
 ``` 
 cd /opt
-sudo wget https://raw.githubusercontent.com/paolo-hub/pi.hole_basic_domine_blacklist/main/pihole_domain_black.py
+sudo wget https://raw.githubusercontent.com/paolo-hub/pi.hole_whitelist_custom/main/pihole_witelist_custom.py
 ``` 
 
 Execute the script:
@@ -22,3 +22,17 @@ python3 pihole_witelist_custom.py
 ``` 
 
 This will load the domains with the description "My Whitelist" and place them in the Default group.
+
+## Automatic update every day
+
+Open crontab:
+```
+crontab -e
+```
+
+Add every day execution at 5:00 am
+```
+# My Witelist
+0 5 * * * python3 /opt/pihole_witelist_custom.py >/dev/null 2>&1
+```
+Then Ctrl+O for save and Ctrl+X to close
