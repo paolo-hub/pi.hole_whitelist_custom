@@ -6,3 +6,4 @@ d.dropbox.com
 www.amazon.com
 stackoverflow.com
 www.linkedin.com
+www.binance.com
