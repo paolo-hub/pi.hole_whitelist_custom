@@ -1,0 +1,7 @@
+# MY CUSTOM WHITELIST
+# Add the blocked domine on this whitelist
+
+www.evernote.com
+d.dropbox.com
+www.amazon.com
+stackoverflow.com
