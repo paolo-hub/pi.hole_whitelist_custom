@@ -12,4 +12,5 @@ dit.whatsapp.net
 www.bing.com
 (\.|^)bard\.google\.it$
 imap.gmail.com
+smtp.gmail.com
 linktr.ee
