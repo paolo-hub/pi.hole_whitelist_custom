@@ -17,3 +17,4 @@ smtp.gmail.com
 linktr.ee
 scsmetrics.vodafone.it
 (\.|^)blog\.giallozafferano\.it$
+analytics.plex.tv
