@@ -19,3 +19,5 @@ scsmetrics.vodafone.it
 (\.|^)blog\.giallozafferano\.it$
 analytics.plex.tv
 www.clei.it
+https://eu.store.ui.com/eu/en
+https://www.ui.com
