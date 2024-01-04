@@ -20,4 +20,5 @@ scsmetrics.vodafone.it
 analytics.plex.tv
 www.clei.it
 https://eu.store.ui.com/eu/en
-https://www.ui.com
+www.ui.com
+www.networkshinobi.com
