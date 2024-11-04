@@ -1,5 +1,5 @@
 # pi.hole My Custom Whitelist
-![alt text](https://badgen.net/badge/platform/pi.hole/blue?) ![alt text](https://badgen.net/badge/content/whitelist/green?)
+![alt text](https://badgen.net/badge/platform/pi.hole/blue?) ![alt text](https://badgen.net/badge/platform/AdGuard/orange?) ![alt text](https://badgen.net/badge/content/whitelist/green?)
 
 Basic Custom whitelist for pi.hole
 
