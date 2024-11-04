@@ -40,6 +40,6 @@ Then Ctrl+O for save and Ctrl+X to close
 ## Direct Links
 |    Service        |   Link       |
 | ----------------- | ------------ |
-|    pi Hole        |   [link_for_piHole](https://raw.githubusercontent.com/paolo-hub/pi.hole_whitelist_custom/Whitelist_Custom.txt)     |
+|    pi Hole        |   [link_for_piHole](https://raw.githubusercontent.com/paolo-hub/pi.hole_whitelist_custom/main/Whitelist_Custom.txt)               |
 |    Ad Guard       |   [link_for_Ad_Guard](https://raw.githubusercontent.com/paolo-hub/pi.hole_whitelist_custom/main/adguard_whitelist_custom.txt)     |
 
